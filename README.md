@@ -31,6 +31,7 @@ make
 sudo cp mlx.h /usr/local/include
 sudo cp libmlx.a /usr/local/lib
 sudo reboot
+
 Note: A reboot is necessary to ensure that the Xquartz is working properly. You can test if it is by running a test example with the command xeyes.
 
 
