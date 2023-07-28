@@ -5,6 +5,7 @@ Installation
 
 Cloning the repositories
 git clone https://gitlab.com/madebypixel02/so_long.git
+
 cd so_long
 make
 
